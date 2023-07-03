@@ -1,0 +1,24 @@
+/home/misar/Github/rustthings/articel_Api/target/debug/deps/ureq-21e468d9ef53a716.rmeta: /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/lib.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/agent.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/body.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/mod.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/decoder.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/encoder.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/error.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/header.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/middleware.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/pool.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/proxy.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/request.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/resolve.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/response.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/stream.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/unit.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/rtls.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/testserver.rs
+
+/home/misar/Github/rustthings/articel_Api/target/debug/deps/ureq-21e468d9ef53a716.d: /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/lib.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/agent.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/body.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/mod.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/decoder.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/encoder.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/error.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/header.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/middleware.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/pool.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/proxy.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/request.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/resolve.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/response.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/stream.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/unit.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/rtls.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/testserver.rs
+
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/lib.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/agent.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/body.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/mod.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/decoder.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/chunked/encoder.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/error.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/header.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/middleware.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/pool.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/proxy.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/request.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/resolve.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/response.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/stream.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/unit.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/rtls.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/ureq-2.7.1/src/testserver.rs:
+
+# env-dep:CARGO_PKG_VERSION=2.7.1

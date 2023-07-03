@@ -1,0 +1,13 @@
+/home/misar/Github/rustthings/articel_Api/target/debug/deps/quote-7df58130ac15c05a.rmeta: /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/lib.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ext.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/format.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ident_fragment.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/to_tokens.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/runtime.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/spanned.rs
+
+/home/misar/Github/rustthings/articel_Api/target/debug/deps/libquote-7df58130ac15c05a.rlib: /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/lib.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ext.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/format.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ident_fragment.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/to_tokens.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/runtime.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/spanned.rs
+
+/home/misar/Github/rustthings/articel_Api/target/debug/deps/quote-7df58130ac15c05a.d: /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/lib.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ext.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/format.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ident_fragment.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/to_tokens.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/runtime.rs /home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/spanned.rs
+
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/lib.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ext.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/format.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/ident_fragment.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/to_tokens.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/runtime.rs:
+/home/misar/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.29/src/spanned.rs:
