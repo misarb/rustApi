@@ -43,7 +43,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     let articles = get_article(&url)?;
     render_article(&articles);
 
-    // println!("{:#?}",article);
+   
     // dbg!(article);
     Ok(())
 }
