@@ -4,6 +4,7 @@ use std::error::Error;
 use serde::{Deserialize, Serialize};
 use serde_json;
 use ureq;
+use colour::*;
 
 #[derive(Serialize, Deserialize, Debug)]
 struct Article {
@@ -28,8 +29,10 @@ fn get_article(url: &str) -> Result<Vec<Article>, Box<dyn Error>> {
 
 fn render_article(articles: &Vec<Article>) {
     for article in articles {
-        println!("title : {}", article.title);
-        println!("url : {}", article.url);
+        yellow_ln!("title : {}",article.title);
+        red_ln!("url : {}",article.url);
+        //println!("title : {}", article.title);
+        //println!("url : {}", article.url);
         println!("---");
     }
 }
